@@ -1,3 +1,4 @@
+
 h1 {
     font-size: 27px;
     color: black;
@@ -5,6 +6,7 @@ h1 {
     line-height: 10px;
     background-size: auto;
     background-color: aqua;
+    font-family: Trian;
     
 }
 span {
@@ -23,9 +25,4 @@ button {
     width: 75px;
     height: 35px;
     text-align: center;
-
-}
-button img {
-    width: auto;
-    height: auto
 }

@@ -1,0 +1,11 @@
+img {
+    position: fixed;
+    height: auto;
+    bottom: 15px;
+    image-orientation: 90;
+}
+button {
+    width: 75px;
+    height: 35px;
+    text-align: center;
+}
