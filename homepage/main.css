@@ -1,16 +1,17 @@
 
 h1 {
-    font-size: 27px;
+    font-size: 50px;
     color: black;
     text-align: center;
-    line-height: 10px;
-    background-size: auto;
+    line-height: 1;
     background-color: aqua;
     font-family: Trian;
-    
+    width: auto;
+
+
 }
 span {
-    font-size: 30px;
+    font-size: 55px;
     color: grey
 
 } 
@@ -25,4 +26,16 @@ button {
     width: 75px;
     height: 35px;
     text-align: center;
+}
+
+span1 {
+    font-size: 22px;
+    color: grey    
+}
+p1 {
+    font-size: 20px;
+    word-spacing: 5px;
+    line-height: 10px;
+    text-align: center;
+
 }
