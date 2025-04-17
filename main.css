@@ -1,0 +1,21 @@
+h1 {
+    font-size: 27px;
+    color: black;
+
+    text-align: center;
+    line-height: 10px;
+    background-size: auto;
+    background-color: aqua;
+    
+}
+span {
+    font-size: 30px;
+    color: grey
+}
+p {
+    font-size: 20px;
+    word-spacing: 5px;
+    line-height: 25px;
+    text-align: center;
+
+}
