@@ -15,7 +15,9 @@ oftenCheck = 5
 @app.route('/')
 def authenticate():
 
-    render_template('index.html')
+    time.wait(1)
+
+    render_template('transfer/')
 
     secs = str(t.tm_sec)
     checkTime = (int(secs) % oftenCheck) -1
