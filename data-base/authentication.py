@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, send_file
 import socket as clct
 import time
 
@@ -13,11 +13,13 @@ t = time.localtime()
 oftenCheck = 5
 
 @app.route('/')
+def indexHTML():
+    return render_template('index.html')
+
+@app.route('authenticating/')
 def authenticate():
 
-    time.wait(1)
-
-    render_template('transfer/')
+    time.wait(3)
 
     secs = str(t.tm_sec)
     checkTime = (int(secs) % oftenCheck) -1
@@ -28,6 +30,7 @@ def authenticate():
     if checkTime == 0 or secs == 1:
         if IPadrs == myIP:
             print("redirecting to data base")
+            return render_template('info/')
 
         else:
             print("You are not authorised to access!")
