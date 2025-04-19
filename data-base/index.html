@@ -8,6 +8,13 @@
 <body>
     <h1>Authentication to Data-Base!</h1>
     <p>To continue ahead, you will need to complete this human verification and than IP authentication.</p>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <script>
+        function onSubmit(token) {
+          document.getElementById("demo-form").submit();
+        }
+    </script>
+    <button class="g-recaptcha" data-sitekey="reCAPTCHA_site_key" data-callback='onSubmit' data-action='submit'>Submit</button>
     <p>Once you have completed the human authentication above, please click here to continue to IP authentication.</p>
 </body>
 </html>
