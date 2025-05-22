@@ -4,12 +4,12 @@ from flask import render_template
 # Home page route
 @app.route('/')
 def home():
-    return render_template('/index.html')
+    return render_template('index.html')
 
 # Disclaimer page route
 @app.route('/disclaimer/')
 def disclaimer():
-    return render_template('templates/disclaimer.html')
+    return render_template('disclaimer.html')
 
 # Homepage route
 @app.route('/homepage/')
