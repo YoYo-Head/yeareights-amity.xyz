@@ -2,11 +2,14 @@ from selenium import webdriver
 import time
 from bs4 import BeautifulSoup
 import re
+from dotenv import load_dotenv
+import os
 
 days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
 
 
-def scrapeTimetable():
+
+def scrapeTimetable(link):
     driver = webdriver.Chrome()
     driver.get('https://sb.amity.nsw.edu.au/login/')
 
@@ -16,7 +19,7 @@ def scrapeTimetable():
 
     time.sleep(15)
 
-    driver.get('https://sb.amity.nsw.edu.au/timetable')
+    driver.get(link)
 
     soup = BeautifulSoup(driver.page_source, 'html.parser')
 
@@ -92,7 +95,9 @@ def scrapeTimetable():
 
 if __name__ == '__main__':
     print('Now scraping the Timetable!')
-    scrapeTimetable()
+    load_dotenv()
+    sbLink = os.getenv('SCHOOLBOX_LINK')
+    scrapeTimetable(sbLink)
 
 
 
