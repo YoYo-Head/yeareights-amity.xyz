@@ -1,0 +1,101 @@
+Reformed Timetable!
+
+ === Week A | Monday: === 
+Period 1: 08HSIE-HI PB-B (08HSIE-HI PB-B) - 7132 Mr Mohamad Al-Abdallah
+Period 2: No subject name (No code) -
+Period 3: PDHPE Y8 (08PDHPE PB-B) - 7122 Mr Troy Sullivan
+Period 4: No subject name (No code) -
+Period 5: RELIGION AND VALUES Y8 (08RV PB-2) - 7133 Mr Nevzat Kantar
+Period 6: SCIENCE Y8 (08SCI PB-B) - 7123 Mr Kerim Itimat
+Period 7: No subject name (No code) -
+Period 8: TECHNOLOGY Y8 (08TEC PB-B) - 7240 Mr Ghamdan El-Miski
+
+ === Week A | Tuesday: === 
+Period 1: 08HSIE-HI PB-B (08HSIE-HI PB-B) - 7132 Mr Mohamad Al-Abdallah
+Period 2: No subject name (No code) -
+Period 3: ENGLISH Y8 (08ENG PB-B) - 7235 Mrs Mariam Tammoum
+Period 4: No subject name (No code) -
+Period 5: MATHEMATICS Y8 (08MATH PB-B) - 7215 Mr Mustafa Karakas
+Period 6: JAPANESE BEGINNERS Y8 (08LAN-JP-B PB-1) - 7132 Ms Rachel Louie
+Period 7: No subject name (No code) -
+Period 8: SCIENCE Y8 (08SCI PB-B) - 7123 Mr Kerim Itimat
+
+ === Week A | Wednesday: === 
+Period 1: PDHPE Y8 (08PDHPE PB-B) - 6001  Mr Troy Sullivan
+Period 2: House Group (08HG-YELLO PB-1) - 7236 Mrs Lina Jebeile
+Period 3: ENGLISH Y8 (08ENG PB-B) - 7235 Mrs Mariam Tammoum
+Period 4: No subject name (No code) -
+Period 5: JAPANESE BEGINNERS Y8 (08LAN-JP-B PB-1) - 7132 Ms Rachel Louie
+Period 6: TECHNOLOGY Y8 (08TEC PB-B) - 7240 Mr Ghamdan El-Miski
+Period 7: No subject name (No code) -
+Period 8: 08ART-VA PB-B (08ART-VA PB-B) - 7209 Mrs Alisha-Marie Tarau
+
+ === Week A | Thursday: === 
+Period 1: TECHNOLOGY Y8 (08TEC PB-B) - 7240 Mr Ghamdan El-Miski
+Period 2: No subject name (No code) -
+Period 3: MATHEMATICS Y8 (08MATH PB-B) - 7215 Mr Mustafa Karakas
+Period 4: No subject name (No code) -
+Period 5: 08ART-VA PB-B (08ART-VA PB-B) - 7209 Mrs Alisha-Marie Tarau
+Period 6: 08HSIE-HI PB-B (08HSIE-HI PB-B) - 7132 Mr Mohamad Al-Abdallah
+Period 7: No subject name (No code) -
+Period 8: ENGLISH Y8 (08ENG PB-B) - 7235 Mrs Mariam Tammoum
+
+ === Week A | Friday: === 
+Period 1: 08ART-VA PB-B (08ART-VA PB-B) - 7209 Mrs Alisha-Marie Tarau
+Period 2: No subject name (No code) -
+Period 3: MATHEMATICS Y8 (08MATH PB-B) - 7215 Mr Mustafa Karakas
+Period 4: No subject name (No code) -
+Period 5: RELIGION AND VALUES Y8 (08RV PB-2) - 7133 Mr Nevzat Kantar
+Period 6: SCIENCE Y8 (08SCI PB-B) - 7123 Mr Kerim Itimat
+Period 7: No subject name (No code) -
+Period 8: ENGLISH Y8 (08ENG PB-B) - 7235 Mrs Mariam Tammoum
+
+ === Week B | Monday: === 
+Period 1: 08HSIE-HI PB-B (08HSIE-HI PB-B) - 7132 Mr Mohamad Al-Abdallah
+Period 2: No subject name (No code) -
+Period 3: PDHPE Y8 (08PDHPE PB-B) - 7122 Mr Troy Sullivan
+Period 4: No subject name (No code) -
+Period 5: RELIGION AND VALUES Y8 (08RV PB-2) - 7133 Mr Nevzat Kantar
+Period 6: SCIENCE Y8 (08SCI PB-B) - 7123 Mr Kerim Itimat
+Period 7: No subject name (No code) -
+Period 8: TECHNOLOGY Y8 (08TEC PB-B) - 7240 Mr Ghamdan El-Miski
+
+ === Week B | Tuesday: === 
+Period 1: 08HSIE-HI PB-B (08HSIE-HI PB-B) - 7132 Mr Mohamad Al-Abdallah
+Period 2: No subject name (No code) -
+Period 3: ENGLISH Y8 (08ENG PB-B) - 7235 Mrs Mariam Tammoum
+Period 4: No subject name (No code) -
+Period 5: MATHEMATICS Y8 (08MATH PB-B) - 7215 Mr Mustafa Karakas
+Period 6: JAPANESE BEGINNERS Y8 (08LAN-JP-B PB-1) - 7132 Ms Rachel Louie
+Period 7: No subject name (No code) -
+Period 8: SCIENCE Y8 (08SCI PB-B) - 7123 Mr Kerim Itimat
+
+ === Week B | Wednesday: === 
+Period 1: PDHPE Y8 (08PDHPE PB-B) - 6001  Mr Troy Sullivan
+Period 2: House Group (08HG-YELLO PB-1) - 7236 Mrs Lina Jebeile
+Period 3: ENGLISH Y8 (08ENG PB-B) - 7235 Mrs Mariam Tammoum
+Period 4: No subject name (No code) -
+Period 5: JAPANESE BEGINNERS Y8 (08LAN-JP-B PB-1) - 7132 Ms Rachel Louie
+Period 6: MATHEMATICS Y8 (08MATH PB-B) - 7215 Mr Mustafa Karakas
+Period 7: No subject name (No code) -
+Period 8: 08ART-VA PB-B (08ART-VA PB-B) - 7209 Mrs Alisha-Marie Tarau
+
+ === Week B | Thursday: === 
+Period 1: TECHNOLOGY Y8 (08TEC PB-B) - 7240 Mr Ghamdan El-Miski
+Period 2: No subject name (No code) -
+Period 3: MATHEMATIC S Y8 (08MATH PB-B) - 7215 Mr Mustafa Karakas
+Period 4: No subject name (No code) -
+Period 5: 08ART-VA PB-B (08ART-VA PB-B) - 7209 Mrs Alisha-Marie Tarau
+Period 6: 08HSIE-HI PB-B (08HSIE-HI PB-B) - 7132 Mr Mohamad Al-Abdallah
+Period 7: No subject name (No code) -
+Period 8: ENGLISH Y8 (08ENG PB-B) - 7235 Mrs Mariam Tammoum
+
+ === Week B | Friday: === 
+Period 1: 08ART-VA PB-B (08ART-VA PB-B) - 7209 Mrs Alisha-Marie Tarau
+Period 2: No subject name (No code) -
+Period 3: MATHEMATICS Y8 (08MATH PB-B) - 7215 Mr Mustafa Karakas
+Period 4: No subject name (No code) -
+Period 5: RELIGION AND VALUES Y8 (08RV PB-2) - 7133 Mr Nevzat Kantar
+Period 6: SCIENCE Y8 (08SCI PB-B) - 7123 Mr Kerim Itimat
+Period 7: No subject name (No code) -
+Period 8: ENGLISH Y8 (08ENG PB-B) - 7235 Mrs Mariam Tammoum

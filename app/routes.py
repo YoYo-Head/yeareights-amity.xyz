@@ -29,4 +29,4 @@ def login():
 # Server List page route
 @app.route('/server-list/')
 def server_list():
-    return render_template('server_list.html')
+    return render_template('server-list.html')
