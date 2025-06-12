@@ -2,10 +2,11 @@
 <html>
 <head>
     <title>YR8s Amity: Homepage</title>
-    <link rel="stylesheet" type="text/css" href="/app/static/css/homepage.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/homepage.css') }}">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
-    <link rel="icon" href="/app/static/images/orange-button.png">
+    <link rel="icon" href="{{ url_for('static', filename='images/orange-button.png') }}">
     <meta name="google-adsense-account" content="ca-pub-4206860074497243">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
 </head>
 <style>
@@ -15,7 +16,6 @@
 </style>
 <body>
     <button type="button" onclick="location.href='/server-list'">Server List</button>
-    <button type="button" onclick="location.href='/data-base'">Data Base</button>
     <h1>The<br> 
         <span>Year 8 Amity website</span>!</h1>
     <p>Welcome to the <span1>Year 8 Amity website</span1>!</p>

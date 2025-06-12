@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Environment variables and config files
+.env
+info.env
+
+# .txt files for logs
+reTimetable.txt
+timetable.txt
+
+
+
+
+
+
+
+
+
+
+
+
