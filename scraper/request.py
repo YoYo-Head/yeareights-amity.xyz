@@ -11,7 +11,7 @@ days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
 
 def scrapeTimetable(link):
     driver = webdriver.Chrome()
-    driver.get('https://sb.amity.nsw.edu.au/login/')
+    driver.get(f'{link}/login/')
 
     # time.sleep(2)
 
@@ -19,7 +19,7 @@ def scrapeTimetable(link):
 
     time.sleep(15)
 
-    driver.get(link)
+    driver.get(f'{link}/timetable')
 
     soup = BeautifulSoup(driver.page_source, 'html.parser')
 
