@@ -9,10 +9,6 @@ import time
 load_dotenv()
 
 key = os.getenv('key')
-print(key)
-print(len(key))
-
-key = key
 
 cipher_suite = Fernet(key)
 
@@ -51,10 +47,7 @@ def processSend():
   
       user = request.form.get('user/email')
       EnPass = cipher_suite.encrypt(request.form.get('password').encode())
-
-      print(user)
-
-      
+     
       requests.post('http://localhost:5500/login-request', data={'user': user, 'password': EnPass})
 
       return render_template('process.html', user=user, password=EnPass.decode())
